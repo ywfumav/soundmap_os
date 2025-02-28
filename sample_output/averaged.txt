@@ -1,0 +1,6 @@
+20250226_Day_Clarke Quay Centre 1
+
+dBA Leq 00:05:05: 56.77 dB
+dBA Max: 83.60 dB
+dBC Leq 00:05:05: 66.93 dB
+dBC Max: 85.40 dB
